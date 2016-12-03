@@ -1,0 +1,11 @@
+[{
+    "id": 1234,
+    "name": "Laptop",
+    "price": 120000,
+    "desc": "Dell XPS Laptop"
+}, {
+    "id": 3254,
+    "name": "Mobile",
+    "price": 24000,
+    "desc": "HTC Mobile"
+}]

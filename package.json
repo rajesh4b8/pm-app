@@ -1,0 +1,23 @@
+{
+  "name": "pm-app",
+  "version": "1.0.0",
+  "description": "Product Management app...",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rajesh4b8/pm-app.git"
+  },
+  "author": "Rajesh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rajesh4b8/pm-app/issues"
+  },
+  "homepage": "https://github.com/rajesh4b8/pm-app#readme",
+  "dependencies": {
+    "bunyan": "^1.8.5",
+    "express": "^4.14.0"
+  }
+}
